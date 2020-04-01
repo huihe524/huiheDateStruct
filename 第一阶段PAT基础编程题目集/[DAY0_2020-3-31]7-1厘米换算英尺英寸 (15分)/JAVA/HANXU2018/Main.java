@@ -9,5 +9,6 @@ public class Main {
             int b = in.nextInt();
             System.out.println(a + b);
         }
+        System.out.println("故意产生冲突");
     }
 }
